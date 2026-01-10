@@ -127,4 +127,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Made with love from the developer of Profilinatorr</a></div>
+<div align="center">Made from Rishav Dev <a href="https://profilinator.rishav.dev/" target="_blank">the developer of Profilinator</a></div>
