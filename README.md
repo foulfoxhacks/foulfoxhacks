@@ -1,126 +1,83 @@
-### Welcome to the chaos!  
-## I’m Sammy — also known as FoulFoxHacks — a hobbyist creator and Furry Pup wandering the interwebs,🐾 always learning, building, and doing my part to make the world a little brighter ☯️  
-  
-
-<a href="https://github.com/foulfoxhacks" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/xitscutiesammyx" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/foulfoxhacks" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/itscutiesammyowo" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@akasammythepuppy" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!  
-  
-  
-
-<br/>  
-
-
-## A bit about me: 
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working as an assistant within a private journalism group, helping investigate online threats, uncover digital risks, and contribute to protecting a community focused on exploration and being yourself.  
-  
-
-- 💫 I’m currently expanding my skills in Debian, Python, HTML, Java, Node.js, and React, while also learning more about API development, systems integration, network IDS/IPS, intrusion defense from a Blue Team perspective, and foundational pentesting techniques.  
-  
-
-- ❓Always down to listen, learn, and swap knowledge with anyone who wants to grow together — come pull up a chair, bring your curiosity, and let’s cause some friendly chaos while we level up side‑by‑side.  
-  
-
-- ⚡ Fun fact: I graduated six months early with straight A’s, and I’ve picked up enough knowledge to keep up with people twice my age. I learn fast, adapt even faster, and love turning that momentum into new skills and projects.  
-
-
-</td><td valign="top" width="50%">
 <div align="center">
-  <img src="https://www.pixelstalk.net/wp-content/uploads/2016/06/Photos-Download-Fox-Wallpapers-HD.jpg" alt="Fox in Snow" style="width: 100%; max-width: 500px;" />
+
+### 🐾 Welcome to the chaos!
+
+<h1>I'm Sammy (aka FoulFoxHacks)</h1>
+
+<!-- Animated Typing Text -->
+<a href="https://github.com/foulfoxhacks">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F16061&center=true&vCenter=true&width=600&lines=Furry+Pup+%26+Hobbyist+Creator;OSINT+%26+Blue+Team+Enthusiast;Always+Learning.+Always+Building.;Causing+Friendly+Chaos!+" alt="Typing SVG" />
+</a>
+
+<p><em>Wandering the interwebs, learning, building, and doing my part to make the world a little brighter. ☯️</em></p>
+
+<!-- Socials -->
+<a href="https://github.com/foulfoxhacks" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://twitter.com/xitscutiesammyx" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="https://linkedin.com/in/foulfoxhacks" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.youtube.com/@akasammythepuppy" target="_blank"><img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>  
+<a href="https://www.facebook.com/itscutiesammyowo" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+
+<br><br>
+<img src="https://www.pixelstalk.net/wp-content/uploads/2016/06/Photos-Download-Fox-Wallpapers-HD.jpg" alt="Fox in Snow" style="width: 100%; max-width: 600px; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
 </div>
 
-<br/>  
+---
 
+### 🦊 A Bit About Me
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="25" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://nativescript.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nativescript.png" alt="NativeScript" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-</div>  
+- 🔭 **Current Mission:** Working as an assistant within a private journalism group. I help investigate online threats, uncover digital risks (OSINT), and protect a community focused on exploration and authentic self-expression.
+- 💫 **Leveling Up:** Expanding my skills in **Debian, Python, Java, Node.js, and React**. On the security side, I'm diving into API development, systems integration, **Network IDS/IPS**, intrusion defense from a **Blue Team** perspective, and foundational pentesting.
+- ⚡ **Fun Fact:** I graduated six months early with straight A’s! I learn fast, adapt even faster, and love turning that momentum into new skills and tools. I've picked up enough knowledge to keep up with folks twice my age.
+- ❓ **Let's Connect:** Always down to listen, learn, and swap knowledge. Pull up a chair, bring your curiosity, and let’s cause some friendly chaos while we level up side‑by‑side.
 
-<br/>  
+---
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=foulfoxhacks&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foulfoxhacks&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
-
-</td></tr></table>  
-
-<br/>  
+### 💻 The Tech Arsenal
 
 <div align="center">
-            <a href="https://ko-fi.com/itscutiesammyowo" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>  
 
-<br/>  
+**Languages & Core** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts,php,bash,powershell" />
+</a>
+
+<br><br>
+
+**Web & Frameworks** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,nodejs,express,wordpress" />
+</a>
+
+<br><br>
+
+**DevSecOps, Cloud & Tools** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,kubernetes,git,github,nginx,grafana,aws,mysql,tensorflow,raspberrypi,arduino" />
+</a>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=foulfoxhacks&&style=flat-square" align="center" />
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=foulfoxhacks&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foulfoxhacks&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117" alt="Top Langs" width="48%" />
+</div>
+
+---
+
+<div align="center">
   
+**Support the Chaos! ☕**<br>
+<a href="https://ko-fi.com/itscutiesammyowo" target="_blank">
+  <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=for-the-badge&logo=ko-fi" alt="Ko-Fi" />
+</a>
 
-<br/>  
+<br><br>
 
+<img src="https://komarev.com/ghpvc/?username=foulfoxhacks&style=flat-square&color=blue" alt="Profile Views" />
 
-<br />
-
-----
-<div align="center">Made from Rishav Dev <a href="https://profilinator.rishav.dev/" target="_blank">the developer of Profilinator</a></div>
+</div>
