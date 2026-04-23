@@ -6,7 +6,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://github.com/foulfoxhacks">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F16061&center=true&vCenter=true&width=600&lines=Furry+Pup+%26+Hobbyist+Creator;OSINT+%26+Blue+Team+Enthusiast;Always+Learning.+Always+Building.;Causing+Friendly+Chaos!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F16061&center=true&vCenter=true&width=600&lines=Furry+Pup+%26+Hobbyist+Creator;Proud+Mello+Zone+Resident;OSINT+%26+Blue+Team+Investigator;Always+Learning.+Always+Building.;Causing+Friendly+Chaos!+" alt="Typing SVG" />
 </a>
 
 <p><em>Wandering the interwebs, learning, building, and doing my part to make the world a little brighter. ☯️</em></p>
@@ -24,12 +24,56 @@
 
 ---
 
-### 🦊 A Bit About Me
+### 📋 Sammy's Data-Pad
+> **Class:** Cyber-Pup / Digital Watchdog 🛡️  
+> **Faction:** The Mello Zone Furry Community 🌈  
+> **Specialty:** OSINT, Blue Team Defense, Friendly Chaos ✨  
+> **Current Status:** Sipping coffee, analyzing network logs ☕  
 
-- 🔭 **Current Mission:** Working as an assistant within a private journalism group. I help investigate online threats, uncover digital risks (OSINT), and protect a community focused on exploration and authentic self-expression.
-- 💫 **Leveling Up:** Expanding my skills in **Debian, Python, Java, Node.js, and React**. On the security side, I'm diving into API development, systems integration, **Network IDS/IPS**, intrusion defense from a **Blue Team** perspective, and foundational pentesting.
-- ⚡ **Fun Fact:** I graduated six months early with straight A’s! I learn fast, adapt even faster, and love turning that momentum into new skills and tools. I've picked up enough knowledge to keep up with folks twice my age.
-- ❓ **Let's Connect:** Always down to listen, learn, and swap knowledge. Pull up a chair, bring your curiosity, and let’s cause some friendly chaos while we level up side‑by‑side.
+---
+
+### 🛡️ My Mission & The Mello Zone
+
+*"My tech skills aren't just for show—they're the tools I use to protect the spaces and people I care about."*
+
+I am deeply rooted in the **Mello Zone furry community**, a space dedicated to exploration, creativity, and being your authentic self. To keep that space safe, I work alongside a private journalism and investigative initiative. Operating as an assistant and digital watchdog, my role involves:
+
+- 🔍 **OSINT & Investigations:** Uncovering digital risks, tracking malicious actors, and investigating online threats targeting our people.
+- 🛡️ **Blue Team Defense:** Utilizing systems integration, Network IDS/IPS, and foundational pentesting techniques to anticipate threats before they happen.
+- 🤝 **Community Protection:** Ensuring that our little corner of the internet remains a safe haven for self-expression.
+
+<br>
+
+<div align="center">
+
+### 🔗 Connect With The Network
+*Want to hang out, swap tech tips, or learn more about our mission? Step inside.*<br><br>
+
+<!-- Live Discord Widget -->
+<a href="https://discord.mellozone.site/" target="_blank">
+  <img src="https://discord.com/api/guilds/1483048984745345099/widget.png?style=banner2" alt="Mello Zone Discord Widget" />
+</a>
+
+<br><br>
+
+<!-- Website Button -->
+<a href="https://www.mellozone.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Visit_Our_HQ-%231E1E2E.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />
+</a>
+
+</div>
+
+---
+
+### 📡 Active Radar (What I'm up to)
+
+| 🎯 **Current Focus** | 📖 **Learning & Leveling Up** | 🛠️ **Building & Tinkering** |
+| :--- | :--- | :--- |
+| Investigating digital threats & OSINT ops | Advanced Network IDS/IPS & Defense | Python automation scripts |
+| Protecting the Mello Zone community | API Development & Systems Integration | Homelab & Private Servers |
+| Connecting with fellow hackers & furs | React, Java, and Node.js frameworks | Web dev & security tools |
+
+*(Fun fact: I graduated six months early with straight A’s! I adapt fast, absorb information like a sponge, and have picked up enough knowledge to keep up with folks twice my age.)*
 
 ---
 
@@ -58,9 +102,20 @@
 
 </div>
 
+<br>
+
+#### 🔎 Favorite Security & OSINT Tools:
+`Wireshark` `Nmap` `Kali Linux` `Shodan` `Maltego` `Burp Suite` `Sherlock` `Metasploit` `Suricata/Snort`
+
 ---
 
-### 📊 GitHub Analytics
+### 🏆 GitHub Analytics & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=foulfoxhacks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=foulfoxhacks&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="GitHub Stats" width="48%" />
