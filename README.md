@@ -51,7 +51,7 @@ I am deeply rooted in the **Mello Zone furry community**, a space dedicated to e
 
 <!-- Live Discord Widget -->
 <a href="https://discord.mellozone.site/" target="_blank">
-  <img src="https://discord.com/api/guilds/1483048984745345099/widget.png?style=banner2" alt="Mello Zone Discord Widget" />
+  <img src="https://discord.com/api/guilds/1483048984745345099/widget.png?style=banner3" alt="Mello Zone Discord Widget" />
 </a>
 
 <br><br>
