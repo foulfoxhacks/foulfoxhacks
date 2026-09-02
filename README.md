@@ -12,11 +12,14 @@
 <p><em>Wandering the interwebs, learning, building, and doing my part to make the world a little brighter. ☯️</em></p>
 
 <!-- Socials -->
-<a href="https://github.com/foulfoxhacks" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 <a href="https://x.com/akasammythepup" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-<a href="https://linkedin.com/in/foulfoxhacks" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://www.youtube.com/@akasammythepuppy" target="_blank"><img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>  
+<a href="https://www.youtube.com/@akasammythepuppy" target="_blank"><img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
 <a href="https://www.facebook.com/akasammythepuppy" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/akasammythepup)
+![Twitch Status](https://img.shields.io/twitch/status/akasammythepuppy)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/luvzfurrz01998)
+![Bluesky followers](https://img.shields.io/bluesky/followers/akasammythepuppy.me)
 
 ---
 
