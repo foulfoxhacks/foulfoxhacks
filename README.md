@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ### 🐾 Welcome to the chaos!
 
@@ -6,21 +6,17 @@
 
 <!-- Animated Typing Text -->
 <a href="https://github.com/foulfoxhacks">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F16061&center=true&vCenter=true&width=600&lines=Furry+Pup+%26+Hobbyist+Creator;Proud+Mello+Zone+Resident;OSINT+%26+Blue+Team+Investigator;Always+Learning.+Always+Building.;Causing+Friendly+Chaos!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F16061&center=false&vCenter=false&width=600&lines=Furry+Pup+%26+Hobbyist+Creator;Proud+Mello+Zone+Resident;OSINT+%26+Blue+Team+Investigator;Always+Learning.+Always+Building.;Causing+Friendly+Chaos!+" alt="Typing SVG" />
 </a>
 
 <p><em>Wandering the interwebs, learning, building, and doing my part to make the world a little brighter. ☯️</em></p>
 
 <!-- Socials -->
 <a href="https://github.com/foulfoxhacks" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="https://twitter.com/xitscutiesammyx" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="https://x.com/akasammythepup" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
 <a href="https://linkedin.com/in/foulfoxhacks" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://www.youtube.com/@akasammythepuppy" target="_blank"><img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>  
-<a href="https://www.facebook.com/itscutiesammyowo" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
-
-<br><br>
-<img src="https://www.pixelstalk.net/wp-content/uploads/2016/06/Photos-Download-Fox-Wallpapers-HD.jpg" alt="Fox in Snow" style="width: 100%; max-width: 600px; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
-</div>
+<a href="https://www.facebook.com/akasammythepuppy" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
 
 ---
 
@@ -42,25 +38,6 @@ I am deeply rooted in the **Mello Zone furry community**, a space dedicated to e
 - 🛡️ **Blue Team Defense:** Utilizing systems integration, Network IDS/IPS, and foundational pentesting techniques to anticipate threats before they happen.
 - 🤝 **Community Protection:** Ensuring that our little corner of the internet remains a safe haven for self-expression.
 
-<br>
-
-<div align="center">
-
-### 🔗 Connect With The Network
-*Want to hang out, swap tech tips, or learn more about our mission? Step inside.*<br><br>
-
-<!-- Live Discord Widget -->
-<a href="https://discord.mellozone.site/" target="_blank">
-  <img src="https://discord.com/api/guilds/1483048984745345099/widget.png?style=banner3" alt="Mello Zone Discord Widget" />
-</a>
-
-<br><br>
-
-<!-- Website Button -->
-<a href="https://www.mellozone.site/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-Visit_Our_HQ-%231E1E2E.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />
-</a>
-
 </div>
 
 ---
@@ -75,22 +52,25 @@ I am deeply rooted in the **Mello Zone furry community**, a space dedicated to e
 
 *(Fun fact: I graduated six months early with straight A’s! I adapt fast, absorb information like a sponge, and have picked up enough knowledge to keep up with folks twice my age.)*
 
+#### 🔎 Favorite Security & OSINT Tools:
+`Wireshark` `Nmap` `Kali Linux` `Shodan` `Maltego` `Burp Suite` `Sherlock` `Metasploit` `Suricata/Snort`
+
 ---
 
 ### 💻 The Tech Arsenal
 
-<div align="center">
-
-**Languages & Core** <br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts,php,bash,powershell" />
-</a>
-
-<br><br>
+<div align="left">
 
 **Web & Frameworks** <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,nodejs,express,wordpress" />
+</a>
+
+<br><br>
+
+**Languages & Core** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts,php,bash,powershell" />
 </a>
 
 <br><br>
@@ -102,37 +82,12 @@ I am deeply rooted in the **Mello Zone furry community**, a space dedicated to e
 
 </div>
 
-<br>
-
-#### 🔎 Favorite Security & OSINT Tools:
-`Wireshark` `Nmap` `Kali Linux` `Shodan` `Maltego` `Burp Suite` `Sherlock` `Metasploit` `Suricata/Snort`
-
 ---
 
-### 🏆 GitHub Analytics & Trophies
+### 🔗 Connect With The Network
+*Want to hang out, swap tech tips, or learn more about our mission? Step inside.*<br><br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=foulfoxhacks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foulfoxhacks&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foulfoxhacks&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117" alt="Top Langs" width="48%" />
-</div>
-
----
-
-<div align="center">
-  
-**Support the Chaos! ☕**<br>
-<a href="https://ko-fi.com/itscutiesammyowo" target="_blank">
-  <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=for-the-badge&logo=ko-fi" alt="Ko-Fi" />
+<!-- Website Button -->
+<a href="https://www.mellozone.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Visit_Our_HQ-%231E1E2E.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=foulfoxhacks&style=flat-square&color=blue" alt="Profile Views" />
-
-</div>
