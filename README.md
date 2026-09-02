@@ -6,7 +6,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://github.com/foulfoxhacks">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F16061&center=false&vCenter=false&width=600&lines=Furry+Pup+%26+Hobbyist+Creator;Proud+Mello+Zone+Resident;OSINT+%26+Blue+Team+Investigator;Always+Learning.+Always+Building.;Causing+Friendly+Chaos!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFA500&center=false&vCenter=false&width=600&lines=Furry+Pup+%26+Hobbyist+Creator;Proud+Mello+Zone+Resident;OSINT+%26+Blue+Team+Investigator;Always+Learning.+Always+Building.;Causing+Friendly+Chaos!+" alt="Typing SVG" />
 </a>
 
 <p><em>Wandering the interwebs, learning, building, and doing my part to make the world a little brighter. ☯️</em></p>
