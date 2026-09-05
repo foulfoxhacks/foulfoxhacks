@@ -1,6 +1,6 @@
 <div align="left">
 
-### 🐾 Welcome to the chaos!
+### 🐾 Welcome to the chaos! 🐾
 
 <h1>I'm Sammy (aka FoulFoxHacks)</h1>
 
