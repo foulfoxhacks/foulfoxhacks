@@ -105,7 +105,6 @@ Explore the [creator and development portfolio](https://akasammythepuppy.me/work
 
 ---
 
-### 🔗 Connect With The Network
 ### 🔗 Find Me & My Community
 
 Explore my creator work, browse the projects behind this GitHub,
