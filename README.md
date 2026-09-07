@@ -1,129 +1,68 @@
 <div align="left">
 
-### 🐾 Welcome to the chaos! 🐾
+# Sammy The Femboy Puppy / FoulFoxHacks
 
-<h1>I'm Sammy (aka FoulFoxHacks)</h1>
+**VRChat creator, streamer, developer, community builder, and serial problem-solver.**
 
-<p><strong><a href="https://akasammythepuppy.me/">Sammy The Femboy Puppy</a></strong> — VRChat creator, streamer, developer, and founder of <a href="https://mellozone.site/">Mello Zone</a>.</p>
+[![Creator Website](https://img.shields.io/badge/Creator%20Website-akasammythepuppy.me-7c3aed?style=for-the-badge)](https://akasammythepuppy.me/)
+[![Portfolio](https://img.shields.io/badge/Projects%20%26%20Skills-Portfolio-2563eb?style=for-the-badge)](https://akasammythepuppy.me/work/)
+[![Mello Zone](https://img.shields.io/badge/Mello%20Zone-Community-ec4899?style=for-the-badge)](https://mellozone.site/)
+[![YouTube](https://img.shields.io/badge/YouTube-akasammythepuppy-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akasammythepuppy)
 
-<p><a href="https://akasammythepuppy.me/">Creator website</a> · <a href="https://akasammythepuppy.me/work/">Projects &amp; portfolio</a></p>
+I am **Sammy**, also known as **Sammy The Femboy Puppy**, **AKASammyThePuppy**, and **FoulFoxHacks**. I build around problems I actually run into: technical SEO and indexing diagnostics, Unity and VRChat editor tooling, creator integrations, streaming systems, community websites, and small automation projects that remove repetitive work.
 
-<!-- Animated Typing Text -->
-<a href="https://akasammythepuppy.me/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFA500&center=false&vCenter=false&width=600&lines=Furry+Pup+%26+Hobbyist+Creator;Proud+Mello+Zone+Resident;OSINT+%26+Blue+Team+Investigator;Always+Learning.+Always+Building.;Causing+Friendly+Chaos!+" alt="Typing SVG" />
-</a>
-
-<p><em>Wandering the interwebs, learning, building, and doing my part to make the world a little brighter. ☯️</em></p>
-
-<!-- Socials -->
-<a href="https://x.com/akasammythepup" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-<a href="https://www.youtube.com/@akasammythepuppy" target="_blank"><img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
-<a href="https://www.facebook.com/akasammythepuppy" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
-
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/akasammythepup)
-![Twitch Status](https://img.shields.io/twitch/status/akasammythepuppy)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/luvzfurrz01998)
-![Bluesky followers](https://img.shields.io/bluesky/followers/akasammythepuppy.me)
-
----
-
-### 📋 Sammy's Data-Pad
-> **Class:** Cyber-Pup / Digital Watchdog 🛡️  
-> **Faction:** The Mello Zone Furry Community 🌈  
-> **Specialty:** OSINT, Blue Team Defense, Friendly Chaos ✨  
-> **Current Status:** Sipping coffee, analyzing network logs ☕  
-
----
-
-### 🛡️ My Mission & The Mello Zone
-
-*"My tech skills aren't just for show—they're the tools I use to protect the spaces and people I care about."*
-
-I am deeply rooted in the **Mello Zone furry community**, a space dedicated to exploration, creativity, and being your authentic self. To keep that space safe, I work alongside a private journalism and investigative initiative. Operating as an assistant and digital watchdog, my role involves:
-
-- 🔍 **OSINT & Investigations:** Uncovering digital risks, tracking malicious actors, and investigating online threats targeting our people.
-- 🛡️ **Blue Team Defense:** Utilizing systems integration, Network IDS/IPS, and foundational pentesting techniques to anticipate threats before they happen.
-- 🤝 **Community Protection:** Ensuring that our little corner of the internet remains a safe haven for self-expression.
+My canonical creator home is **[akasammythepuppy.me](https://akasammythepuppy.me/)**. The longer first-party record of my projects and skills lives in the **[Work & Skills Portfolio](https://akasammythepuppy.me/work/)**.
 
 </div>
 
----
+## Featured public projects
 
-### 🛠️ Featured Public Projects
+| Project | What it does | Stack / focus |
+| --- | --- | --- |
+| [SEO-INDEX VariScripts](https://github.com/foulfoxhacks/SEO-INDEX-VariScripts) | Cross-platform indexing, technical SEO, GEO and AEO diagnostics with CLI, reports and a graphical workbench. | Python, PowerShell, Shell, search engineering |
+| [PearConnect Song Requests](https://github.com/foulfoxhacks/PearConnect-Song-Requests) | Local-first song requests for Pear Desktop with desktop/CLI workflows and multiple streaming inputs. | Node.js, local APIs, streaming automation |
+| [TikCord Presence](https://github.com/foulfoxhacks/TikCord-Presence) | Mirrors TikTok LIVE status into Discord Rich Presence. | TypeScript, Node.js, Discord RPC |
+| [UnityCord Presence](https://github.com/foulfoxhacks/UnityCord-Presence) | Editor-focused Discord Rich Presence for Unity and VRChat Creator Companion projects. | C#, Unity, Discord Game SDK, VCC |
+| [Rank-Math-for-NextJS](https://github.com/foulfoxhacks/Rank-Math-for-NextJS) | Independent Next.js port of the Rank Math SEO 1.0.275 experience and runtime concepts. | Next.js, TypeScript, SEO infrastructure |
+| [SyncifyX](https://github.com/foulfoxhacks/SyncifyX) | API-first migration workflow for moving YouTube Music likes into Spotify. | OAuth, Postgres, matching/review workflows |
 
-| Project | What it does |
-| :--- | :--- |
-| [SEO-INDEX VariScripts](https://github.com/foulfoxhacks/SEO-INDEX-VariScripts) | Cross-platform technical SEO, crawl-access, sitemap, and indexing diagnostics. |
-| [PearConnect Song Requests](https://github.com/foulfoxhacks/PearConnect-Song-Requests) | Local-first song requests for Pear Desktop, with desktop and CLI workflows. |
-| [TikCord Presence](https://github.com/foulfoxhacks/TikCord-Presence) | Mirrors TikTok LIVE status to Discord Rich Presence. |
-| [UnityCord Presence](https://github.com/foulfoxhacks/UnityCord-Presence) | Discord Rich Presence for Unity Editor and VRChat Creator Companion projects. |
-| [Rank-Math-for-NextJS](https://github.com/foulfoxhacks/Rank-Math-for-NextJS) | Independent Next.js port of the Rank Math SEO experience; upstream attribution and licensing are documented in the repository. |
+## What I work on
 
-Explore the [creator and development portfolio](https://akasammythepuppy.me/work/) for more of the work behind these projects. For downloads, installation, and support, use each project's repository and documentation.
+### Search and web engineering
 
----
+Technical SEO diagnostics, crawler access, canonical/sitemap analysis, structured data, IndexNow, metadata systems, accessibility, deployment workflows, and evidence-focused audits.
 
-### 📡 Active Radar (What I'm up to)
+### Unity and VRChat
 
-| 🎯 **Current Focus** | 📖 **Learning & Leveling Up** | 🛠️ **Building & Tinkering** |
-| :--- | :--- | :--- |
-| Investigating digital threats & OSINT ops | Advanced Network IDS/IPS & Defense | Python automation scripts |
-| Protecting the Mello Zone community | API Development & Systems Integration | Homelab & Private Servers |
-| Connecting with fellow hackers & furs | React, Java, and Node.js frameworks | Web dev & security tools |
+Avatar setup, reference matching, texture implementation, Unity troubleshooting, VCC project tooling, editor integrations, and Discord presence experiments.
 
-*(Fun fact: I graduated six months early with straight A’s! I adapt fast, absorb information like a sponge, and have picked up enough knowledge to keep up with folks twice my age.)*
+### Creator systems
 
-#### 🔎 Favorite Security & OSINT Tools:
-`Wireshark` `Nmap` `Kali Linux` `Shodan` `Maltego` `Burp Suite` `Sherlock` `Metasploit` `Suricata/Snort`
+Live-platform integrations, locally cached social feeds, streaming workflows, local APIs, Discord Rich Presence, creator websites, and automation that connects tools that were never designed to cooperate.
 
----
+### Community infrastructure
 
-### 💻 The Tech Arsenal
+I founded the **[Mello Zone Furry Community](https://mellozone.site/)**. Mello Zone's canonical community information, standards, resources, events, joining information, and editorial work belong on `mellozone.site`; this GitHub profile focuses on the software and technical work behind my creator projects.
 
-<div align="left">
+## Project philosophy
 
-**Web & Frameworks** <br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,nodejs,express,wordpress" />
-</a>
+Most projects start with a real workflow problem:
 
-<br><br>
+1. Understand the problem.
+2. Research the existing behavior.
+3. Build the smallest useful version.
+4. Test it where it will actually be used.
+5. Document what is verified and what is still experimental.
+6. Iterate only when continued use justifies the extra complexity.
 
-**Languages & Core** <br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts,php,bash,powershell" />
-</a>
+I try not to present a prototype as production-ready simply because it has a repository, screenshot, or release tag.
 
-<br><br>
+## Find me
 
-**DevSecOps, Cloud & Tools** <br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,debian,docker,kubernetes,git,github,nginx,grafana,aws,mysql,tensorflow,raspberrypi,arduino" />
-</a>
+- Creator site: https://akasammythepuppy.me/
+- Projects and skills: https://akasammythepuppy.me/work/
+- Official links: https://akasammythepuppy.me/connect/
+- YouTube: https://www.youtube.com/@akasammythepuppy
+- Mello Zone: https://mellozone.site/
 
-</div>
-
----
-
-### 🔗 Find Me & My Community
-
-Explore my creator work, browse the projects behind this GitHub,
-or meet the community I founded.
-
-<p>
-  <a href="https://akasammythepuppy.me/">
-    <strong>🐾 Sammy's Creator Website</strong>
-  </a>
-  &nbsp;·&nbsp;
-  <a href="https://akasammythepuppy.me/work/">
-    <strong>🛠️ Projects &amp; Portfolio</strong>
-  </a>
-  &nbsp;·&nbsp;
-  <a href="https://mellozone.site/">
-    <strong>🌈 Mello Zone Community</strong>
-  </a>
-</p>
-
-For project installation, bug reports, and feature requests,
-use the relevant repository's documentation and Issues tab.
-</a>
+For project-specific bugs, feature requests, installation help, and contribution discussion, use the relevant repository's issues and documentation.
