@@ -106,9 +106,25 @@ Explore the [creator and development portfolio](https://akasammythepuppy.me/work
 ---
 
 ### 🔗 Connect With The Network
-*Want to hang out, swap tech tips, or learn more about our mission? Step inside.*<br><br>
+### 🔗 Find Me & My Community
 
-<!-- Website Button -->
-<a href="https://www.mellozone.site/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-Visit_Our_HQ-%231E1E2E.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />
+Explore my creator work, browse the projects behind this GitHub,
+or meet the community I founded.
+
+<p>
+  <a href="https://akasammythepuppy.me/">
+    <strong>🐾 Sammy's Creator Website</strong>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://akasammythepuppy.me/work/">
+    <strong>🛠️ Projects &amp; Portfolio</strong>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://mellozone.site/">
+    <strong>🌈 Mello Zone Community</strong>
+  </a>
+</p>
+
+For project installation, bug reports, and feature requests,
+use the relevant repository's documentation and Issues tab.
 </a>
