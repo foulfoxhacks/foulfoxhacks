@@ -4,8 +4,12 @@
 
 <h1>I'm Sammy (aka FoulFoxHacks)</h1>
 
+<p><strong><a href="https://akasammythepuppy.me/">Sammy The Femboy Puppy</a></strong> — VRChat creator, streamer, developer, and founder of <a href="https://mellozone.site/">Mello Zone</a>.</p>
+
+<p><a href="https://akasammythepuppy.me/">Creator website</a> · <a href="https://akasammythepuppy.me/work/">Projects &amp; portfolio</a></p>
+
 <!-- Animated Typing Text -->
-<a href="https://github.com/foulfoxhacks">
+<a href="https://akasammythepuppy.me/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFA500&center=false&vCenter=false&width=600&lines=Furry+Pup+%26+Hobbyist+Creator;Proud+Mello+Zone+Resident;OSINT+%26+Blue+Team+Investigator;Always+Learning.+Always+Building.;Causing+Friendly+Chaos!+" alt="Typing SVG" />
 </a>
 
@@ -42,6 +46,20 @@ I am deeply rooted in the **Mello Zone furry community**, a space dedicated to e
 - 🤝 **Community Protection:** Ensuring that our little corner of the internet remains a safe haven for self-expression.
 
 </div>
+
+---
+
+### 🛠️ Featured Public Projects
+
+| Project | What it does |
+| :--- | :--- |
+| [SEO-INDEX VariScripts](https://github.com/foulfoxhacks/SEO-INDEX-VariScripts) | Cross-platform technical SEO, crawl-access, sitemap, and indexing diagnostics. |
+| [PearConnect Song Requests](https://github.com/foulfoxhacks/PearConnect-Song-Requests) | Local-first song requests for Pear Desktop, with desktop and CLI workflows. |
+| [TikCord Presence](https://github.com/foulfoxhacks/TikCord-Presence) | Mirrors TikTok LIVE status to Discord Rich Presence. |
+| [UnityCord Presence](https://github.com/foulfoxhacks/UnityCord-Presence) | Discord Rich Presence for Unity Editor and VRChat Creator Companion projects. |
+| [Rank-Math-for-NextJS](https://github.com/foulfoxhacks/Rank-Math-for-NextJS) | Independent Next.js port of the Rank Math SEO experience; upstream attribution and licensing are documented in the repository. |
+
+Explore the [creator and development portfolio](https://akasammythepuppy.me/work/) for more of the work behind these projects. For downloads, installation, and support, use each project's repository and documentation.
 
 ---
 
