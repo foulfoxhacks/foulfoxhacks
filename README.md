@@ -9,9 +9,19 @@
 [![Mello Zone](https://img.shields.io/badge/Mello%20Zone-Community-ec4899?style=for-the-badge)](https://mellozone.site/)
 [![YouTube](https://img.shields.io/badge/YouTube-akasammythepuppy-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akasammythepuppy)
 
-I am **Sammy**, also known as **Sammy The Femboy Puppy**, **AKASammyThePuppy**, and **FoulFoxHacks**. I build around problems I actually run into: technical SEO and indexing diagnostics, Unity and VRChat editor tooling, creator integrations, streaming systems, community websites, and small automation projects that remove repetitive work.
+I am **Sammy**, also known as **Sammy The Femboy Puppy**, **AKASammyThePuppy**, and **FoulFoxHacks**. I build around problems I actually run into: technical SEO and indexing diagnostics, Unity and VRChat creator tooling, local-first media workflows, community websites, creator integrations, and small automation projects that remove repetitive work.
 
 My canonical creator home is **[akasammythepuppy.me](https://akasammythepuppy.me/)**. The longer first-party record of my projects and skills lives in the **[Work & Skills Portfolio](https://akasammythepuppy.me/work/)**.
+
+I believe small creators can build big things. Too often, online spaces center around exclusivity and gatekeeping that push people apart. My mission—through **Mello Zone**, **BetterYTS**, and my VRChat worlds—is to break down platform barriers and build genuinely inclusive, positive spaces where everyone in the furry fandom and adjacent communities feels welcome and represented.
+
+**BetterYTS** is a cross-platform music and video ecosystem spanning Web, Android, and VRChat. 
+
+Built to solve the reliability issues of traditional VRChat video players, BetterYTS bridges platforms into a single unified application—allowing friends to host and join shared watch parties together whether they are inside VRChat or joining from a browser or mobile device. 
+
+* **Key Features:** Reliable VRChat video playback, cross-platform synced watch parties (Web, Android, VRChat), and integrated creator/community discovery.
+* **Roadmap & Architecture:** Currently absorbing and expanding upon **PearConnect** (a work-in-progress local music-request and streaming utility) to deliver a larger, unified media featureset.
+* **Built by:** Sammy The Femboy Puppy ([akasammythepuppy.me](https://akasammythepuppy.me)) — founder of [Mello Zone](https://mellozone.site).
 
 </div>
 
