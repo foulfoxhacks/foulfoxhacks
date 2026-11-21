@@ -4,6 +4,8 @@
 
 **VRChat creator, streamer, developer, community builder, and serial problem-solver.**
 
+<a href="https://akasammythepuppy.me/"><img src="https://akasammythepuppy.me/assets/images/buttons/akasammythepuppy-88x31.png" width="88" height="31" alt="Sammy The Femboy Puppy"></a>
+
 [![Creator Website](https://img.shields.io/badge/Creator%20Website-akasammythepuppy.me-7c3aed?style=for-the-badge)](https://akasammythepuppy.me/)
 [![Portfolio](https://img.shields.io/badge/Projects%20%26%20Skills-Portfolio-2563eb?style=for-the-badge)](https://akasammythepuppy.me/work/)
 [![Mello Zone](https://img.shields.io/badge/Mello%20Zone-Community-ec4899?style=for-the-badge)](https://mellozone.site/)
