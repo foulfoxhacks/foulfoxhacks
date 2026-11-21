@@ -5,10 +5,15 @@
 **VRChat creator, streamer, developer, community builder, and serial problem-solver.**
 
 <a href="https://akasammythepuppy.me/"><img src="https://akasammythepuppy.me/assets/images/buttons/akasammythepuppy-88x31.png" width="88" height="31" alt="Sammy The Femboy Puppy"></a>
+<a href="https://foulfoxhacks.dev"><img src="https://akasammythepuppy.me/assets/images/buttons/foulfoxhacks-88x31.png" width="88" height="31" alt="FoulFoxHacks"></a>
+<a href="https://mellozone.site/"><img src="https://akasammythepuppy.me/assets/images/buttons/mellozone-88x31.png" width="88" height="31" alt="Mello Zone"></a>
 
-[![Portfolio](https://img.shields.io/badge/Projects%20%26%20Skills-Portfolio-2563eb?style=for-the-badge)](https://akasammythepuppy.me/work/)
-[![Mello Zone](https://img.shields.io/badge/Mello%20Zone-Community-ec4899?style=for-the-badge)](https://mellozone.site/)
-[![YouTube](https://img.shields.io/badge/YouTube-akasammythepuppy-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akasammythepuppy)
+[![TikTok](https://img.shields.io/badge/TikTok-@akasammythepuppy-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@akasammythepuppy)
+[![Twitch](https://img.shields.io/badge/Twitch-Stream-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/akasammythepuppy)
+[![X](https://img.shields.io/badge/X-@akasammythepuppy-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akasammythepuppy)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@akasammythepuppy-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/akasammythepuppy.me)
+[![Instagram](https://img.shields.io/badge/Instagram-@akasammythepuppy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akasammythepuppy/)
+[![Discord](https://img.shields.io/badge/Discord-@akasammythepuppy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1200276108474601534)
 
 I am **Sammy**, also known as **Sammy The Femboy Puppy**, **AKASammyThePuppy**, and **FoulFoxHacks**. I build around problems I actually run into: technical SEO and indexing diagnostics, Unity and VRChat creator tooling, local-first media workflows, community websites, creator integrations, and small automation projects that remove repetitive work.
 
