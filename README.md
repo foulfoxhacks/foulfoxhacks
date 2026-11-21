@@ -1,84 +1,209 @@
-<div align="left">
+ <div align="center">
 
-# Sammy The Femboy Puppy / FoulFoxHacks
+# Sammy The Femboy Puppy
+### AKASammyThePuppy · FoulFoxHacks
 
-**VRChat creator, streamer, developer, community builder, and serial problem-solver.**
+**Independent Developer · VRChat Creator · Community Founder · Open-Source Contributor**
+
+Building software, tools, and infrastructure that connect creators, communities, and platforms.
 
 <a href="https://akasammythepuppy.me/"><img src="https://akasammythepuppy.me/assets/images/buttons/akasammythepuppy-88x31.png" width="88" height="31" alt="Sammy The Femboy Puppy"></a>
 <a href="https://foulfoxhacks.dev"><img src="https://akasammythepuppy.me/assets/images/buttons/foulfoxhacks-88x31.png" width="88" height="31" alt="FoulFoxHacks"></a>
 <a href="https://mellozone.site/"><img src="https://akasammythepuppy.me/assets/images/buttons/mellozone-88x31.png" width="88" height="31" alt="Mello Zone"></a>
 
+[![Portfolio](https://img.shields.io/badge/Projects%20%26%20Skills-Portfolio-2563eb?style=for-the-badge)](https://akasammythepuppy.me/work/)
 [![TikTok](https://img.shields.io/badge/TikTok-@akasammythepuppy-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@akasammythepuppy)
 [![Twitch](https://img.shields.io/badge/Twitch-Stream-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/akasammythepuppy)
 [![X](https://img.shields.io/badge/X-@akasammythepuppy-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akasammythepuppy)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@akasammythepuppy-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/akasammythepuppy.me)
 [![Instagram](https://img.shields.io/badge/Instagram-@akasammythepuppy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akasammythepuppy/)
-[![Discord](https://img.shields.io/badge/Discord-@akasammythepuppy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1200276108474601534)
-
-I am **Sammy**, also known as **Sammy The Femboy Puppy**, **AKASammyThePuppy**, and **FoulFoxHacks**. I build around problems I actually run into: technical SEO and indexing diagnostics, Unity and VRChat creator tooling, local-first media workflows, community websites, creator integrations, and small automation projects that remove repetitive work.
-
-My canonical creator home is **[akasammythepuppy.me](https://akasammythepuppy.me/)**. The longer first-party record of my projects and skills lives in the **[Work & Skills Portfolio](https://akasammythepuppy.me/work/)**.
-
-I believe small creators can build big things. Too often, online spaces center around exclusivity and gatekeeping that push people apart. My mission—through **Mello Zone**, **BetterYTS**, and my VRChat worlds—is to break down platform barriers and build genuinely inclusive, positive spaces where everyone in the furry fandom and adjacent communities feels welcome and represented.
-
-**BetterYTS** is a cross-platform music and video ecosystem spanning Web, Android, and VRChat. 
-
-Built to solve the reliability issues of traditional VRChat video players, BetterYTS bridges platforms into a single unified application—allowing friends to host and join shared watch parties together whether they are inside VRChat or joining from a browser or mobile device. 
-
-* **Key Features:** Reliable VRChat video playback, cross-platform synced watch parties (Web, Android, VRChat), and integrated creator/community discovery.
-* **Roadmap & Architecture:** Currently absorbing and expanding upon **PearConnect** (a work-in-progress local music-request and streaming utility) to deliver a larger, unified media featureset.
-* **Built by:** Sammy The Femboy Puppy ([akasammythepuppy.me](https://akasammythepuppy.me)) — founder of [Mello Zone](https://mellozone.site).
+[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1200276108474601534)
 
 </div>
 
-## Featured public projects
+---
 
-| Project | What it does | Stack / focus |
-| --- | --- | --- |
-| [SEO-INDEX VariScripts](https://github.com/foulfoxhacks/SEO-INDEX-VariScripts) | Cross-platform indexing, technical SEO, GEO and AEO diagnostics with CLI, reports and a graphical workbench. | Python, PowerShell, Shell, search engineering |
-| [PearConnect Song Requests](https://github.com/foulfoxhacks/PearConnect-Song-Requests) | Local-first song requests for Pear Desktop with desktop/CLI workflows and multiple streaming inputs. | Node.js, local APIs, streaming automation |
-| [TikCord Presence](https://github.com/foulfoxhacks/TikCord-Presence) | Mirrors TikTok LIVE status into Discord Rich Presence. | TypeScript, Node.js, Discord RPC |
-| [UnityCord Presence](https://github.com/foulfoxhacks/UnityCord-Presence) | Editor-focused Discord Rich Presence for Unity and VRChat Creator Companion projects. | C#, Unity, Discord Game SDK, VCC |
-| [Rank-Math-for-NextJS](https://github.com/foulfoxhacks/Rank-Math-for-NextJS) | Independent Next.js port of the Rank Math SEO 1.0.275 experience and runtime concepts. | Next.js, TypeScript, SEO infrastructure |
-| [SyncifyX](https://github.com/foulfoxhacks/SyncifyX) | API-first migration workflow for moving YouTube Music likes into Spotify. | OAuth, Postgres, matching/review workflows |
+## About me
 
-## What I work on
+Hey! I'm **Sammy**, also known as **Sammy The Femboy Puppy**, **AKASammyThePuppy**, and **FoulFoxHacks**.
 
-### Search and web engineering
+I'm an independent developer, furry creator, community builder, and technology enthusiast. I work on projects that bring together software engineering, social VR, livestreaming, creator infrastructure, and online communities.
 
-Technical SEO diagnostics, crawler access, canonical/sitemap analysis, structured data, IndexNow, metadata systems, accessibility, deployment workflows, and evidence-focused audits.
+Most of my projects begin with a practical problem: an existing tool that doesn't work reliably, a platform that doesn't communicate with another platform, an inaccessible workflow, or a community that needs better infrastructure.
 
-### Unity and VRChat
+Rather than accepting those limitations, I enjoy researching how things work, experimenting with solutions, and building tools that make those experiences better.
 
-Avatar setup, reference matching, texture implementation, Unity troubleshooting, VCC project tooling, editor integrations, and Discord presence experiments.
+My interests include:
 
-### Creator systems
+- **Software development:** Applications, APIs, integrations, automation, and developer tooling.
+- **Web engineering:** Full-stack development, technical SEO, indexing, accessibility, and infrastructure.
+- **Social VR:** Unity, VRChat worlds, creator tools, video players, and cross-platform experiences.
+- **Creator technology:** Streaming integrations, analytics, social presence, and media systems.
+- **Community infrastructure:** Moderation, safety, community websites, and inclusive digital spaces.
+- **Open source:** Building independently, contributing to existing projects, and sharing useful tools.
 
-Live-platform integrations, locally cached social feeds, streaming workflows, local APIs, Discord Rich Presence, creator websites, and automation that connects tools that were never designed to cooperate.
+My goal is to make technology more accessible, interconnected, and useful for the communities that depend on it.
 
-### Community infrastructure
+## Organizations and initiatives
 
-I founded the **[Mello Zone Furry Community](https://mellozone.site/)**. Mello Zone's canonical community information, standards, resources, events, joining information, and editorial work belong on `mellozone.site`; this GitHub profile focuses on the software and technical work behind my creator projects.
+| Organization / Project | Role | Focus |
+|---|---|---|
+| [FoulFoxHacks](https://foulfoxhacks.dev) | Founder / Developer | Independent software projects, integrations, and developer tooling |
+| [Mello Zone](https://mellozone.site) | Founder | Inclusive furry community and community infrastructure |
+| [Furry Con Archives](https://furryconarchives.org/) | Lead Web Developer | Community documentation and convention-related web infrastructure |
+| [CritterVerse](https://discord.gg/EWGJRj2bym) | Contributor / Web Development / Outreach | Connected community projects and shared infrastructure |
 
-## Project philosophy
+## Featured projects
 
-Most projects start with a real workflow problem:
+I maintain and develop projects across several areas of the software ecosystem. These are some of the projects that best represent my work.
 
-1. Understand the problem.
-2. Research the existing behavior.
-3. Build the smallest useful version.
-4. Test it where it will actually be used.
-5. Document what is verified and what is still experimental.
-6. Iterate only when continued use justifies the extra complexity.
+### Media, streaming and creator tools
 
-I try not to present a prototype as production-ready simply because it has a repository, screenshot, or release tag.
+| Project | Description | Technologies / Focus |
+|---|---|---|
+| [BetterYTS](https://github.com/foulfoxhacks/betteryts-music) | Cross-platform music and video ecosystem connecting Web, Android, and VRChat. Includes synchronized watch-party functionality and VRChat integrations. | Web, Android, VRChat, APIs, Cloudflare Workers |
+| [PearConnect Song Requests](https://github.com/foulfoxhacks/PearConnect-Song-Requests) | Local-first song-request and streaming utility designed to connect music playback with community interaction. | Node.js, local APIs, automation |
+| [TikCord Presence](https://github.com/foulfoxhacks/TikCord-Presence) | Connects TikTok LIVE activity with Discord Rich Presence. | TypeScript, Node.js, Discord RPC |
+| [UnityCord Presence](https://github.com/foulfoxhacks/UnityCord-Presence) | Displays Unity development activity through Discord Rich Presence, including VRChat Creator Companion workflows. | C#, Unity, Discord Game SDK |
+| [SyncifyX](https://github.com/foulfoxhacks/SyncifyX) | API-driven music migration workflow for transferring YouTube Music likes into Spotify. | OAuth, PostgreSQL, API integrations |
 
-## Find me
+### Web engineering and search infrastructure
 
-- Creator site: https://akasammythepuppy.me/
-- Projects and skills: https://akasammythepuppy.me/work/
-- Official links: https://akasammythepuppy.me/connect/
-- YouTube: https://www.youtube.com/@akasammythepuppy
-- Mello Zone: https://mellozone.site/
+| Project | Description | Technologies / Focus |
+|---|---|---|
+| [SEO-INDEX VariScripts](https://github.com/foulfoxhacks/SEO-INDEX-VariScripts) | Cross-platform technical SEO and indexing diagnostics, including crawler analysis, reports, and graphical tooling. | Python, PowerShell, Shell, SEO |
+| [Rank-Math-for-NextJS](https://github.com/foulfoxhacks/Rank-Math-for-NextJS) | Independent Next.js implementation inspired by Rank Math's SEO experience and runtime concepts. | Next.js, TypeScript, SEO infrastructure |
+| [FoulFoxHacks](https://foulfoxhacks.dev) | My independent development identity and home for software experiments, tools, and technical projects. | Software engineering, web development |
 
-For project-specific bugs, feature requests, installation help, and contribution discussion, use the relevant repository's issues and documentation.
+### Community and platform infrastructure
+
+| Project | Description | Focus |
+|---|---|---|
+| [Mello Zone](https://mellozone.site) | An inclusive furry community with dedicated resources, policies, events, creator initiatives, and community infrastructure. | Community development, web engineering |
+| [Sentriq](https://foulfoxhacks.dev) | An AI-assisted community intelligence and moderation platform concept focused on connecting moderation workflows across popular streaming and communication platforms. | Moderation, automation, platform integrations |
+| [Stratus Social](https://foulfoxhacks.dev) | A developing creator analytics and social statistics initiative focused on collecting source-labelled metrics and historical data. | APIs, analytics, data collection |
+
+*Project descriptions and development status are subject to change. Not every initiative listed here is a publicly released product.*
+
+## VRChat and social VR
+
+Social VR is one of the areas where I enjoy combining technical development with creative work.
+
+My VRChat-related work includes:
+
+- Unity and VRChat Creator Companion tooling.
+- Video player and media integration development.
+- Cross-platform watch-party experiences.
+- VRChat package development and distribution.
+- Editor utilities and developer integrations.
+- World creation and experimentation.
+
+**Featured world:**
+
+[Midnight Cabin — Sammy](https://vrclist.com/world/1396541)
+
+I also maintain the `com.foulfoxhacks` publisher namespace for my VRChat-related packages.
+
+## Community development
+
+I believe online communities should be built around accessibility, transparency, safety, and genuine participation.
+
+### Mello Zone
+
+I founded [Mello Zone](https://mellozone.site), an inclusive furry community intended to provide a welcoming environment for furry fandom members and adjacent communities.
+
+My work involves more than maintaining a website. It includes community infrastructure, documentation, safety policies, moderation resources, creator engagement, and tools that support the community.
+
+### Community collaboration
+
+I also participate in community-oriented development and infrastructure projects, including web development, outreach, documentation, and technical contributions.
+
+I am particularly interested in helping smaller projects improve their technical capabilities and become more sustainable.
+
+## Technical interests
+
+My development work is varied, but these are the areas I spend the most time exploring.
+
+| Area | Interests |
+|---|---|
+| Languages | TypeScript, JavaScript, Python, C#, PHP, PowerShell |
+| Web development | Next.js, HTML, CSS, APIs, responsive interfaces |
+| Backend & infrastructure | Node.js, Cloudflare Workers, REST APIs, PostgreSQL |
+| Social integrations | Discord RPC, OAuth, TikTok LIVE, streaming APIs |
+| VR development | Unity, VRChat SDK, VCC, UdonSharp |
+| Automation | CLI utilities, scripts, data collection, workflow automation |
+| Search engineering | Technical SEO, structured data, indexing, GEO, AEO |
+| Data systems | Analytics, historical metrics, caching, data validation |
+
+I enjoy learning new technologies through practical implementation rather than limiting myself to a single framework or development environment.
+
+## Publications and community research
+
+I also take an interest in documenting and researching the communities and ecosystems I participate in.
+
+**Featured writing:**
+
+- [Why furry convention attendance figures need context](https://www.flayrah.com/) — Published on Flayrah, September 12, 2026.
+
+I believe community research benefits from context, transparent sourcing, and responsible interpretation of available data.
+
+## How I approach development
+
+I prefer practical engineering over unnecessary complexity.
+
+My general development process:
+
+1. **Identify the problem.** Understand what isn't working and who is affected.
+2. **Research existing solutions.** Investigate available tools, APIs, documentation, and limitations.
+3. **Design the implementation.** Establish the architecture and identify realistic requirements.
+4. **Build and experiment.** Develop a working implementation and test its behavior.
+5. **Validate.** Check reliability, compatibility, security, and actual functionality.
+6. **Document.** Explain installation, usage, limitations, and development status.
+7. **Iterate.** Improve the project based on actual usage and feedback.
+
+I value maintainability, interoperability, transparency, and documentation.
+
+I also believe that an experimental project should be identified as experimental, and that a feature should not be advertised as functional until it has been verified.
+
+## Collaboration and contributions
+
+I'm interested in collaborating with developers, creators, community administrators, and open-source maintainers.
+
+Areas where I'd particularly enjoy contributing include:
+
+- Open-source community infrastructure.
+- VRChat and Unity developer tooling.
+- Streaming and social-platform integrations.
+- Community moderation and safety technology.
+- Technical SEO and web infrastructure.
+- Creator analytics and automation.
+- Documentation, testing, and project maintenance.
+
+Whether it's investigating an issue, improving an existing implementation, building an integration, or helping maintain a community project, I'm always interested in worthwhile technical collaboration.
+
+## Find me online
+
+| Platform | Link |
+|---|---|
+| Personal website | https://akasammythepuppy.me/ |
+| Projects & Skills | https://akasammythepuppy.me/work/ |
+| Official social directory | https://akasammythepuppy.me/connect/ |
+| FoulFoxHacks | https://foulfoxhacks.dev |
+| Mello Zone | https://mellozone.site |
+| TikTok | https://www.tiktok.com/@akasammythepuppy |
+| Twitch | https://www.twitch.tv/akasammythepuppy |
+| X | https://x.com/akasammythepuppy |
+| Bluesky | https://bsky.app/profile/akasammythepuppy.me |
+| Instagram | https://www.instagram.com/akasammythepuppy/ |
+| Discord | https://discord.com/users/1200276108474601534 |
+| YouTube | https://www.youtube.com/@akasammythepuppy |
+
+---
+
+<div align="center">
+
+**Small creators can build big things.**
+
+*Building connections between technology, creativity, and community.*
+
+</div>
